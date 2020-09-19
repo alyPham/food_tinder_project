@@ -87,3 +87,5 @@ lint/tmp/
 
 # Android Profiling
 *.hprof
+# Default ignored files
+/workspace.xml
